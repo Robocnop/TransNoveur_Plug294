@@ -627,6 +627,12 @@ namespace TransNoveur_Plug294
                 new Life.UI.ItemShopDefinition()
                 {
                     categoryId = 0,
+                    item = Nova.man.item.GetItem(1965), //Cookie Box
+                    price = 1.32,
+                },
+                new Life.UI.ItemShopDefinition()
+                {
+                    categoryId = 0,
                     item = Nova.man.item.GetItem(138), //Appel
                     price = 1.5,
                 },
